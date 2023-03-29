@@ -5,7 +5,8 @@ import mysql.connector
 import requests
 
 headers = {
-    'X-Forwarded-For': '113.200.174.37'
+    # 填入伪造的IP地址
+    'X-Forwarded-For': '*.*.*.*'
 }
 
 FilePath = "E:/Project/Python/爬虫/科学文库/book/"
