@@ -1,5 +1,4 @@
-# - 
-[科学文库（ScienceReading）](https://book.sciencereading.cn/shop/main/Login/shopFrame.do)自动化下载解密工具
+# - [科学文库（ScienceReading）](https://book.sciencereading.cn/shop/main/Login/shopFrame.do)自动化下载解密工具
 
 使用说明：
 - information.xls文件是科学文库网站所有的书籍目录（截止到2023年3月28日）
